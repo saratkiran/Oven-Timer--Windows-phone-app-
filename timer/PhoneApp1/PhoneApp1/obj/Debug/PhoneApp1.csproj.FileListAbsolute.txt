@@ -1,0 +1,13 @@
+C:\Users\Saratkiran\Desktop\timer\PhoneApp1\PhoneApp1\Bin\Debug\ApplicationIcon.png
+C:\Users\Saratkiran\Desktop\timer\PhoneApp1\PhoneApp1\Bin\Debug\Background.png
+C:\Users\Saratkiran\Desktop\timer\PhoneApp1\PhoneApp1\Bin\Debug\PhoneApp1.dll
+C:\Users\Saratkiran\Desktop\timer\PhoneApp1\PhoneApp1\Bin\Debug\PhoneApp1.pdb
+C:\Users\Saratkiran\Desktop\timer\PhoneApp1\PhoneApp1\Bin\Debug\AppManifest.xaml
+C:\Users\Saratkiran\Desktop\timer\PhoneApp1\PhoneApp1\Bin\Debug\PhoneApp1.xap
+C:\Users\Saratkiran\Desktop\timer\PhoneApp1\PhoneApp1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Saratkiran\Desktop\timer\PhoneApp1\PhoneApp1\obj\Debug\App.g.i.cs
+C:\Users\Saratkiran\Desktop\timer\PhoneApp1\PhoneApp1\obj\Debug\MainPage.g.i.cs
+C:\Users\Saratkiran\Desktop\timer\PhoneApp1\PhoneApp1\obj\Debug\PhoneApp1.g.resources
+C:\Users\Saratkiran\Desktop\timer\PhoneApp1\PhoneApp1\obj\Debug\PhoneApp1.dll
+C:\Users\Saratkiran\Desktop\timer\PhoneApp1\PhoneApp1\obj\Debug\PhoneApp1.pdb
+C:\Users\Saratkiran\Desktop\timer\PhoneApp1\PhoneApp1\obj\Debug\XapCacheFile.xml

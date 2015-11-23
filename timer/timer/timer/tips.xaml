@@ -1,0 +1,48 @@
+﻿<phone:PhoneApplicationPage 
+    x:Class="timer.Page1"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    mc:Ignorable="d" d:DesignHeight="768" d:DesignWidth="480"
+    shell:SystemTray.IsVisible="True">
+
+    <!--LayoutRoot is the root grid where all page content is placed-->
+    <Grid x:Name="LayoutRoot" Background="Transparent">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!--TitlePanel contains the name of the application and page title-->
+        <StackPanel x:Name="TitlePanel" Grid.Row="0" Margin="12,17,0,28">
+            <TextBlock x:Name="ApplicationTitle" Text="Tips to Use Oven" Style="{StaticResource PhoneTextNormalStyle}" Height="56" FontSize="28" TextWrapping="Wrap" Foreground="Red" />
+            <TextBlock x:Name="PageTitle" Margin="9,-7,0,0" Style="{StaticResource PhoneTextTitle1Style}"/>
+        </StackPanel>
+
+        <!--ContentPanel - place additional content here-->
+        <Grid x:Name="ContentPanel" Grid.Row="1" Margin="12,0,12,0">
+            <ScrollViewer>
+                <TextBlock Margin="0,8,0,0" TextWrapping="Wrap" ScrollViewer.VerticalScrollBarVisibility="Auto" Foreground="#FFE2AEAE" FontSize="25" FontFamily="Segoe WP SemiLight" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Width="452" Height="3000" TextAlignment="Left"><Run Text="    Arrange food items evenly in a covered dish and add some liquid if needed. Cover the dish with a lid or plastic wrap; loosen or vent the lid or wrap to let steam escape. The moist heat that is created will help destroy harmful bacteria and ensure uniform cooking. Cooking bags also provide safe, even cooking."/><LineBreak/><Run/><LineBreak/><Run Text="    Do not cook large cuts of meat on high power (100%). Large cuts of meat should be cooked on medium power (50%) for longer periods. This allows heat to reach the center without overcooking outer areas."/><LineBreak/><Run/><LineBreak/><Run Text="    Stir or rotate food midway through the microwaving time to eliminate cold spots where harmful bacteria can survive, and for more even cooking."/><LineBreak/><Run/><LineBreak/><Run Text="    When partially cooking food in the microwave oven to finish cooking on the grill or in a conventional oven, it is important to transfer the microwaved food to the other heat source immediately. Never partially cook food and store it for later use."/><LineBreak/><Run/><LineBreak/><Run Text="    Use a food thermometer or the oven's temperature probe to verify the food has reached a safe minimum internal temperature. Cooking times may vary because ovens vary in power and efficiency. Always allow standing time, which completes the cooking, before checking the internal temperature with a food thermometer."/><LineBreak/><Run/><LineBreak/><Run Text="    Cook foods to the following safe minimum internal temperatures:"/><LineBreak/><Run Text="        Cook all raw beef, pork, lamb and veal steaks, chops, and roasts to a minimum internal temperature of 145 °F as measured with a food thermometer before removing meat from the heat source. For safety and quality, allow meat to rest for at least three minutes before carving or consuming. For reasons of personal preference, consumers may choose to cook meat to higher temperatures."/><LineBreak/><Run Text="        Cook all raw ground beef, pork, lamb, and veal to an internal temperature of 160 °F as measured with a food thermometer."/><LineBreak/><Run Text="        Cook all poultry to a safe minimum internal temperature of 165 °F as measured with a food thermometer."/><LineBreak/><Run Text="        Microwaving stuffed, whole poultry is not recommended. The stuffing might not reach the temperature needed to destroy harmful bacteria. Cook stuffing separately to 165 °F."/><LineBreak/><Run Text="        Cook egg dishes and casseroles to 160 °F."/><LineBreak/><Run Text="        Reheat leftovers to 165 °F."/><LineBreak/><Run/><LineBreak/><Run Text="    Cooking whole, stuffed poultry in a microwave oven is not recommended. The stuffing might not reach the temperature needed to destroy harmful bacteria."/><LineBreak/><Run Text="s"/></TextBlock>
+            </ScrollViewer>
+        </Grid>
+    </Grid>
+    <!--Sample code showing usage of ApplicationBar-->
+    <!--<phone:PhoneApplicationPage.ApplicationBar>
+        <shell:ApplicationBar IsVisible="True" IsMenuEnabled="True">
+            <shell:ApplicationBarIconButton IconUri="/Images/appbar_button1.png" Text="Button 1"/>
+            <shell:ApplicationBarIconButton IconUri="/Images/appbar_button2.png" Text="Button 2"/>
+            <shell:ApplicationBar.MenuItems>
+                <shell:ApplicationBarMenuItem Text="MenuItem 1"/>
+                <shell:ApplicationBarMenuItem Text="MenuItem 2"/>
+            </shell:ApplicationBar.MenuItems>
+        </shell:ApplicationBar>
+    </phone:PhoneApplicationPage.ApplicationBar>-->
+
+</phone:PhoneApplicationPage>

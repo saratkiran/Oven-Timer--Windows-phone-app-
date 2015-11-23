@@ -1,0 +1,13 @@
+C:\Users\Saratkiran\Desktop\timer\contactit\contactit\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Saratkiran\Desktop\timer\contactit\contactit\obj\Debug\App.g.i.cs
+C:\Users\Saratkiran\Desktop\timer\contactit\contactit\obj\Debug\MainPage.g.i.cs
+C:\Users\Saratkiran\Desktop\timer\contactit\contactit\obj\Debug\contactit.g.resources
+C:\Users\Saratkiran\Desktop\timer\contactit\contactit\Bin\Debug\ApplicationIcon.png
+C:\Users\Saratkiran\Desktop\timer\contactit\contactit\Bin\Debug\Background.png
+C:\Users\Saratkiran\Desktop\timer\contactit\contactit\Bin\Debug\contactit.dll
+C:\Users\Saratkiran\Desktop\timer\contactit\contactit\Bin\Debug\contactit.pdb
+C:\Users\Saratkiran\Desktop\timer\contactit\contactit\Bin\Debug\AppManifest.xaml
+C:\Users\Saratkiran\Desktop\timer\contactit\contactit\Bin\Debug\contactit.xap
+C:\Users\Saratkiran\Desktop\timer\contactit\contactit\obj\Debug\contactit.dll
+C:\Users\Saratkiran\Desktop\timer\contactit\contactit\obj\Debug\contactit.pdb
+C:\Users\Saratkiran\Desktop\timer\contactit\contactit\obj\Debug\XapCacheFile.xml
